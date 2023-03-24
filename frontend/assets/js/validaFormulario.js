@@ -82,4 +82,4 @@ class ValidaFormulario{
     }
 }//fim da class valida formulario
 
-const valida = new ValidaFormulario()
+//const valida = new ValidaFormulario()
