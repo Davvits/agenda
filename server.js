@@ -1,6 +1,5 @@
 require('dotenv').config();
-//CONECTIONSTRING=mongodb+srv://davimoura:eXH2PC3ByAzef0gs@cluster0.enbtyb0.mongodb.net/AGENDA?retryWrites=true&w=majority
-
+//
 const path = require('path')
 const express = require('express');
 const app = express();
