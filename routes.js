@@ -25,4 +25,4 @@ route.get('/contato/delete/:id', loginRequired,contatoController.delete)
 
 module.exports = route;
 
-//commit
+//commit nov
